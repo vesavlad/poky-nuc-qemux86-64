@@ -1,0 +1,9 @@
+[submodule "poky"]
+	path = poky
+	url = https://github.com/vesavlad/poky-qemu-x86-64
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+[submodule "meta-ivi"]
+	path = meta-ivi
+	url = https://github.com/GENIVI/meta-ivi.git
